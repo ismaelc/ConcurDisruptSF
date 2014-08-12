@@ -36,13 +36,28 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 
 [https://developer.concur.com/get-started/webservices-overview](https://developer.concur.com/get-started/webservices-overview)
 
-Ideas for a Concur-powered business travel app:
+<a name="mashup">Ideas for a Concur-powered business travel app:</a>
 --
 
 
 Mash-up  | Idea
 ------------- | -------------
-**Concur + Uber** | Send Uber ride expense directly to Concur using Quick Expense or E-Receipt API
+**Concur + Clover** | 
+**Concur + Crunchbase** |
+**Concur + DigitalOcean** |
+**Concur + Evernote** | 
+**Concur + EvoSnap** |
+**Concur + Mashery** |
+**Concur + Moxtra** |
+**Concur + New Relic** |
+**Concur + Pearson** |
+**Concur + Pebble** |
+**Concur + Peel** |
+**Concur + Snich** |
+**Concur + Twilio** |
+**Concur + Twitter** |
+**Concur + Yammer** | 
+**Concur + Yodlee** |
 **Concur + weather** | Predict weather using Concur traveler's destination and date
 **Concur + smartwatch/ring**  | Use smartwatch/ring to confirm if Mastercard purchase line item should be sent to Concur as expense (or ignored if personal purchase); Display QR code to POS reader to send purchase as expense to Concur
 **Concur + beacons/indoor position**  | Use Concur user's expense history to push relevant proximity ads/recommendations; Determine walk-time to gate based on Itinerary info
@@ -55,9 +70,7 @@ Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#e
 Incentives
 --
 
-- **5 free Devcon passes worth $99 each** to 5 teams (1 pass per team) for the **"Best Use of Concur APIs"** (entries have to be uploaded as short YouTube videos ~1min or less)
-- Any team that uses the Concur API has a shot at two $50K prizes when they pitch their app to [The Perfect Trup Fund Awards](https://developer.concur.com/devcon/PerfectTripFundAwards)
-- Winners will be promoted to Concur's Blog http://concur.com/blog
+- TBD
 
 
 <a name="addl">Additional Information</a>
