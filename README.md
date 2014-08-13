@@ -70,7 +70,7 @@ Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#e
 Incentives
 --
 
-- TBD
+- Maximum $1,000 worth of gift cards: Best Use of Concur API – App that demonstrates the best use of Concur APIs. Prize distribution is $200 to each winning team member.
 
 
 <a name="addl">Additional Information</a>
