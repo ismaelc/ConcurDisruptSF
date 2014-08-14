@@ -71,6 +71,7 @@ Incentives
 --
 
 - Maximum $1,000 worth of gift cards: Best Use of Concur API – App that demonstrates the best use of Concur APIs. Prize distribution is $200 to each winning team member.
+- Free passes to The Perfect Trip DevCon event worth $99 per ticket for teams (1 ticket per team) that demonstrate the best of the Concur API + co-sponsor API onstage.  For example, Best use of Concur + Yodlee, Best use of Concur + Pebble, and so on.  Selected finalists get to pitch for a shot at $100K in prizes (https://developer.concur.com/devcon/PerfectTripFundAwards)
 
 
 <a name="addl">Additional Information</a>
