@@ -42,6 +42,7 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 
 Mash-up  | Idea
 ------------- | -------------
+**Concur + [Yodlee](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014)** | Mashup Yodlee's Aggregation API and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends.
 **Concur + Clover** | 
 **Concur + Crunchbase** |
 **Concur + DigitalOcean** |
@@ -57,7 +58,6 @@ Mash-up  | Idea
 **Concur + Twilio** |
 **Concur + Twitter** |
 **Concur + Yammer** | 
-**Concur + Yodlee** |
 **Concur + weather** | Predict weather using Concur traveler's destination and date
 **Concur + smartwatch/ring**  | Use smartwatch/ring to confirm if Mastercard purchase line item should be sent to Concur as expense (or ignored if personal purchase); Display QR code to POS reader to send purchase as expense to Concur
 **Concur + beacons/indoor position**  | Use Concur user's expense history to push relevant proximity ads/recommendations; Determine walk-time to gate based on Itinerary info
@@ -71,7 +71,7 @@ Incentives
 --
 
 - Maximum $1,000 worth of gift cards: Best Use of Concur API – App that demonstrates the best use of Concur APIs. Prize distribution is $200 to each winning team member.
-- Free passes to The Perfect Trip DevCon event worth $99 per ticket for teams (1 ticket per team) that demonstrate the best of the Concur API + co-sponsor API onstage.  For example, Best use of Concur + Yodlee, Best use of Concur + Pebble, and so on.  Selected finalists get to pitch for a shot at $100K in prizes (https://developer.concur.com/devcon/PerfectTripFundAwards)
+- Free passes to The Perfect Trip DevCon event worth $99 per ticket for teams (1 ticket per team) that demonstrate the best of the Concur API + co-sponsor API onstage.  For example, Best use of Concur + Yodlee, Best use of Concur + Pebble, and so on. **Co-sponsors will be announced soon**. Selected finalists get to pitch for a shot at $100K in prizes (https://developer.concur.com/devcon/PerfectTripFundAwards)
 
 
 <a name="addl">Additional Information</a>
