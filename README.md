@@ -45,10 +45,10 @@ Mash-up  | Idea
 **Concur + Yodlee** | Mashup [Yodlee's Aggregation API](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014) and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends.
 **Concur + Weather Wunderground** | Predict [weather](http://www.wunderground.com/weather/api/) using Concur traveler's destination and date
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
+**Concur + Evernote** | Image receipts saved in an [Evernote](http://dev.evernote.com/) folder are OCR'd and sent to Concur as Quick Expense. Image files are also automatically uploaded to Concur's [ReceiptImage API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages)
 **Concur + Clover** | 
 **Concur + Crunchbase** |
 **Concur + DigitalOcean** |
-**Concur + Evernote** | 
 **Concur + EvoSnap** |
 **Concur + Mashery** |
 **Concur + Moxtra** |
