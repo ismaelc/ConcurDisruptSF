@@ -44,7 +44,7 @@ Mash-up  | Idea
 ------------- | -------------
 **Concur + [Yodlee](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014)** | Mashup Yodlee's Aggregation API and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends.
 **Concur + [Weather Wunderground](http://www.wunderground.com/weather/api/)** | Predict weather using Concur traveler's destination and date
-**Concur + [Esri](https://developers.arcgis.com/) | Use Esri's different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
+**Concur + [Esri](https://developers.arcgis.com/)** | Use Esri's different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
 **Concur + Clover** | 
 **Concur + Crunchbase** |
 **Concur + DigitalOcean** |
