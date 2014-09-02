@@ -72,7 +72,7 @@ Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#e
 --
 
 - **Best Use of Concur API -- Up to $1,000 in Amazon Gift Cards** – For an app that demonstrates the best use of Concur APIs; prize distribution is $200 to each winning team member.
-- **Best Use of Concur API + Co-Sponsor API On-stage - Free passes to [The Perfect Trip DevCon 2014](https://developer.concur.com/devcon?utm_source=Blog_Evang&utm_medium=blog&utm_campaign=DevConBlogs) ($99 per ticket)** - For teams (2 tickets per team) that demonstrate the best of the Concur API + co-sponsor API onstage. For example, best use of Concur + Yodlee, Best use of Concur + Pebble, and so on. Applies to all Disrupt co-sponsors listed in [mashup list above](#mashup). All contestants can also apply to pitch their app for a shot at $100K in prizes. (https://developer.concur.com/devcon/PerfectTripFundAwards)
+- **Best Use of Concur API + Co-Sponsor API On-stage - Free passes to [The Perfect Trip DevCon 2014](https://developer.concur.com/devcon?utm_source=Blog_Evang&utm_medium=blog&utm_campaign=DevConBlogs) ($99 per ticket)** - For teams (2 tickets per team) that demonstrate the best of the Concur API + co-sponsor API onstage. For example, best use of Concur + Yodlee, Best use of Concur + Pebble, and so on. **Applies to all Disrupt co-sponsors listed in [mashup list above](#mashup)**. All contestants can also apply to pitch their app for a shot at $100K in prizes. (https://developer.concur.com/devcon/PerfectTripFundAwards)
 
 
 <a name="addl">Additional Information</a>
