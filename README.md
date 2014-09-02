@@ -68,7 +68,7 @@ Mash-up  | Idea
 
 Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#example)
 
-Incentives
+<a name="prizes">Prizes</a>
 --
 
 - **Maximum $1,000 worth of Amazon gift cards: Best Use of Concur API** – App that demonstrates the best use of Concur APIs. Prize distribution is $200 to each winning team member.
