@@ -42,14 +42,16 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 
 Mash-up  | Idea
 ------------- | -------------
-**Concur + Yodlee** | Mashup [Yodlee's Aggregation API](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014) and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends.
+**Concur + Yodlee** | Mashup [Yodlee's Aggregation API](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014) and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends. (**BONUS prize**: +1 more free pass worth $99 to The Perfect Trip DevCon)
+**Concur + Pebble** | Compute and submit car mileage expense to Concur using the Pebble SDK [sample code here](https://developer.getpebble.com/blog/2014/09/03/Pebble-Concur-Mojio/) (**BONUS prize**: 5 Pebble smartwatches to winning team)
 **Concur + Weather Wunderground** | Predict [weather](http://www.wunderground.com/weather/api/) using Concur traveler's destination and date
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
 **Concur + Evernote** | Image receipts saved in an [Evernote](http://dev.evernote.com/) folder are OCR'd and sent to Concur as Quick Expense. Image files are also automatically uploaded to Concur's [ReceiptImage API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages)
-**Concur + Clover** | 
-**Concur + Crunchbase** |
-**Concur + DigitalOcean** |
-**Concur + EvoSnap** |
+**Concur + IBM Bluemix** | Use [IBM Bluemix](http://ibm.biz/HackBluemix) backend to run Concur apps
+**Concur + Clover** | Display QR code to POS reader to send purchase as expense to Concur
+**Concur + DigitalOcean** | Use [DigitalOcean](https://www.digitalocean.com/) to power your Concur apps
+**Concur + EvoSnap** | Use [EvoSnap](http://www.evosnap.com/) so merchant can automatically send the expense to Concur on the customer's behalf (which can be reimbursed later)
+**Concur + Golgi | Use [Golgi](http://www.golgi.io/) to get realtime updates of a Concur user's Itinerary (e.g. instant notification to a travel app when a Concur user makes a new flight/hotel booking)
 **Concur + Mashery** |
 **Concur + Moxtra** |
 **Concur + New Relic** |
@@ -60,7 +62,7 @@ Mash-up  | Idea
 **Concur + Twilio** |
 **Concur + Twitter** |
 **Concur + Yammer** | 
-**Concur + smartwatch/ring**  | Use smartwatch/ring to confirm if Mastercard purchase line item should be sent to Concur as expense (or ignored if personal purchase); Display QR code to POS reader to send purchase as expense to Concur
+**Concur + smartwatch/ring**  | Use smartwatch/ring to confirm if Mastercard purchase line item should be sent to Concur as expense (or ignored if personal purchase)
 **Concur + beacons/indoor position**  | Use Concur user's expense history to push relevant proximity ads/recommendations; Determine walk-time to gate based on Itinerary info
 **Concur + credit/debit card**  | Use smartwatch/ring to confirm if Mastercard purchase line item should be sent to Concur as expense (or ignored if personal purchase)
 **Concur + parking** | User Concur itinerary info (hotel/flight booking) to find fastest route to parking
@@ -273,6 +275,7 @@ The subsections below provide a more detailed information on how to:
 
 <a name="samplecode">Sample code</a>
 --------------
+- [Pebble SDK C/Javascript](https://developer.getpebble.com/blog/2014/09/03/Pebble-Concur-Mojio/)
 - [Windows 8 C#/XAML](https://github.com/ismaelc/Concur-Windows8-SampleCode)
 - [Objective-C/iOS](https://github.com/concurtech/mobile-samples)
 - [C#](https://github.com/concurtech/api-samples)
