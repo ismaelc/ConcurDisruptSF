@@ -39,11 +39,12 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 <a name="mashup">Ideas for a Concur-powered business travel app:</a>
 --
 
+Check out the Concur prize categories [here](#prizes)
 
 Mash-up | Idea
 ------------- | -------------
 **Concur + Yodlee** | Mashup [Yodlee's Aggregation API](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014) and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends. (**BONUS prize**: +1 more free pass worth $99 to The Perfect Trip DevCon)
-**Concur + Pebble** | Use Pebble to confirm if purchase is personal or business [see car mileage expense sample code here](https://developer.getpebble.com/blog/2014/09/03/Pebble-Concur-Mojio/) (**BONUS prize**: 5 Pebble smartwatches to winning team)
+**Concur + Pebble** | Use Pebble to confirm if purchase is personal or business - [see car mileage expense sample code here](https://developer.getpebble.com/blog/2014/09/03/Pebble-Concur-Mojio/) (**BONUS prize**: 5 Pebble smartwatches to winning team)
 **Concur + Twilio** | Call/SMS a [Twilio](http://www.twilio.com/) number to submit your expense (voice through AVR or SMS) (**BONUS prize**: To be announced soon!)
 **Concur + Weather Wunderground** | Predict [weather](http://www.wunderground.com/weather/api/) using Concur traveler's destination and date; Cross-match Concur expenses with weather (e.g. Allows company to identify/allocate expense budget based on upcoming weather)
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
