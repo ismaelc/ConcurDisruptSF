@@ -40,7 +40,7 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 --
 
 
-Mash-up of Concur and Co-Sponsor API | Idea
+Mash-up | Idea
 ------------- | -------------
 **Concur + Yodlee** | Mashup [Yodlee's Aggregation API](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014) and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends. (**BONUS prize**: +1 more free pass worth $99 to The Perfect Trip DevCon)
 **Concur + Pebble** | Use Pebble to confirm if purchase is personal or business [see car mileage expense sample code here](https://developer.getpebble.com/blog/2014/09/03/Pebble-Concur-Mojio/) (**BONUS prize**: 5 Pebble smartwatches to winning team)
