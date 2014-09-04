@@ -44,7 +44,8 @@ Mash-up | Idea
 ------------- | -------------
 **Concur + Yodlee** | Mashup [Yodlee's Aggregation API](https://developer.yodlee.com/Hackathons/Disrupt_SF_2014) and Concur's Itinerary API to filter transactions related to the trip. A report can then be generated showing spend trends. (**BONUS prize**: +1 more free pass worth $99 to The Perfect Trip DevCon)
 **Concur + Pebble** | Use Pebble to confirm if purchase is personal or business [see car mileage expense sample code here](https://developer.getpebble.com/blog/2014/09/03/Pebble-Concur-Mojio/) (**BONUS prize**: 5 Pebble smartwatches to winning team)
-**Concur + Weather Wunderground** | Predict [weather](http://www.wunderground.com/weather/api/) using Concur traveler's destination and date
+**Concur + Twilio** | Call/SMS a [Twilio](http://www.twilio.com/) number to submit your expense (voice through AVR or SMS) (**BONUS prize**: To be announced soon!)
+**Concur + Weather Wunderground** | Predict [weather](http://www.wunderground.com/weather/api/) using Concur traveler's destination and date; Cross-match Concur expenses with weather (e.g. Allows company to identify/allocate expense budget based on upcoming weather)
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
 **Concur + Evernote** | Image receipts saved in an [Evernote](http://dev.evernote.com/) folder are OCR'd and sent to Concur as Quick Expense. Image files are also automatically uploaded to Concur's [ReceiptImage API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages)
 **Concur + IBM Bluemix** | Use [IBM Bluemix](http://ibm.biz/HackBluemix) backend to run Concur apps
@@ -60,9 +61,8 @@ Mash-up | Idea
 **Concur + Paypal** | Provide functionality to pick [PayPal](http://www.paypal.com/) purchases and send to Concur as expense
 **Concur + Snich** |
 **Concur + Spark** | Use Concur itinerary data to alert IoT devices hooked to [Spark Core Kit](https://www.spark.io/) in hotel room to set themselves according to user's preference (e.g. When person walks in, lights adjust and an automatic request for shaving kit is sent out)
-**Concur + Twilio** | 
 **Concur + Twitter** |
-**Concur + Yammer** | 
+**Concur + Yammer** | Allow Yammer 
 
 Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#example)
 
