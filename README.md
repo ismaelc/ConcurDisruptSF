@@ -39,7 +39,7 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 <a name="mashup">Ideas for a Concur-powered business travel app:</a>
 --
 
-Check out the Concur prize categories [here](#prizes)
+Check out the Concur main prize and mashup category prizes in this [link](#prizes)
 
 Mash-up | Idea
 ------------- | -------------
