@@ -50,7 +50,6 @@ Mash-up | Idea
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
 **Concur + Evernote** | Image receipts saved in an [Evernote](http://dev.evernote.com/) folder are OCR'd and sent to Concur as Quick Expense. Image files are also automatically uploaded to Concur's [ReceiptImage API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages)
 **Concur + Moxtra** | Use [Moxtra's Clip or Draw modules](http://www.moxtra.com/developer/?utm_source=TC&utm_medium=banner&utm_content=logo&utm_campaign=TCD) to add context when sending an image receipt to Concur (e.g. Instead of typing in the total value in an image receipt, user can instead draw a circle around the total value which can then be processed/extracted faster by the receiving backend); Use Moxtra Chat SDK to create space to chat, share images, itinerary, expense reports, etc. with travel group
-
 **Concur + IBM Bluemix** | Use [IBM Bluemix](http://ibm.biz/HackBluemix) backend to run Concur apps
 **Concur + Clover** | Display QR code to POS reader to send purchase as expense to Concur
 **Concur + DigitalOcean** | Use [DigitalOcean](https://www.digitalocean.com/) to power your Concur apps
