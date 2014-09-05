@@ -51,7 +51,7 @@ Mash-up | Idea
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
 **Concur + Evernote** | Image receipts saved in an [Evernote](http://dev.evernote.com/) folder are OCR'd and sent to Concur as Quick Expense. Image files are also automatically uploaded to Concur's [ReceiptImage API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages)
 **Concur + IBM Bluemix** | Use [IBM Bluemix](http://ibm.biz/HackBluemix) backend to run Concur apps
-**Concur + Clover** | Display QR code to POS reader to send purchase as expense to Concur
+**Concur + Clover** | Display QR code to [Clover](https://www.clover.com/docs) POS reader to send purchase as expense to Concur
 **Concur + DigitalOcean** | Use [DigitalOcean](https://www.digitalocean.com/) to power your Concur apps
 **Concur + EvoSnap** | Use [EvoSnap](http://www.evosnap.com/) so merchant can automatically send the expense to Concur on the customer's behalf (which can be reimbursed later)
 **Concur + Golgi** | Use [Golgi](http://www.golgi.io/) to get realtime updates of a Concur user's Itinerary (e.g. instant notification to a travel app when a Concur user makes a new flight/hotel booking)
@@ -65,7 +65,7 @@ Mash-up | Idea
 **Concur + Twitter** |
 **Concur + Yammer** | Allow Yammer 
 
-Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#example)
+Find more app ideas [here](#example)
 
 <a name="prizes">Prizes</a>
 --
