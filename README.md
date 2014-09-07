@@ -48,22 +48,22 @@ Mash-up | Idea
 **Concur + Twilio** | Call/SMS a [Twilio](http://www.twilio.com/) number to submit your expense (voice through AVR or SMS) (**BONUS prize**: 3 x Google Chromecast)
 **Concur + Moxtra** | Use [Moxtra's Clip or Draw modules](http://www.moxtra.com/developer/?utm_source=TC&utm_medium=banner&utm_content=logo&utm_campaign=TCD) to add context when sending an image receipt to Concur (e.g. Instead of typing in the total value in an image receipt, user can instead draw a circle around the total value which can then be processed/extracted faster by the receiving backend); Use Moxtra Chat SDK to create space to chat, share images, itinerary, expense reports, etc. with travel group (**BONUS prize**: Free 1-year Moxtra SDK service if app is commercialized after hackathon)
 **Concur + Sinch** | When recommending places to eat near a user's hotel booking, users could click a button to call the restaurant in-app (using [Sinch](http://www.sinch.com/docs/overview/)) and make a reservation or ask a question about the food. (**BONUS** prize: $500 of Sinch calling credit)
+**Concur + EvoSnap** | Create a simple POS application that sent the payment/transaction data to [EVO Snap*](http://evosnap.com) and also to Concur. (**BONUS** prize: Limited edition EvoSnap jacket)
 **Concur + Weather Wunderground** | Predict [weather](http://www.wunderground.com/weather/api/) using Concur traveler's destination and date; Cross-match Concur expenses with weather (e.g. Allows company to identify/allocate expense budget based on upcoming weather)
 **Concur + Esri** | Use [Esri's](https://developers.arcgis.com/) different mapping layers/functionalities to add visual context to a Concur user's destination (e.g. POIs that match a Concur user's expense habits - coffee shops)
 **Concur + Evernote** | Image receipts saved in an [Evernote](http://dev.evernote.com/) folder are OCR'd and sent to Concur as Quick Expense. Image files are also automatically uploaded to Concur's [ReceiptImage API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages)
 **Concur + Microsoft** | Use [Windows Azure](http://microsoftventures.com/) as backend for Concur app 
 **Concur + Clover** | Display QR code to [Clover](https://www.clover.com/docs) POS reader to send purchase as expense to Concur
+**Concur + Spark** | Use Concur itinerary data to alert IoT devices hooked to [Spark Core Kit](https://www.spark.io/) in hotel room to set themselves according to user's preference (e.g. When person walks in, lights adjust and an automatic request for shaving kit is sent out)
 **Concur + IBM Bluemix** | Use [IBM Bluemix](http://ibm.biz/HackBluemix) backend to run Concur apps
 **Concur + DigitalOcean** | Use [DigitalOcean](https://www.digitalocean.com/) to power your Concur apps
-**Concur + EvoSnap** | Use [EvoSnap](http://www.evosnap.com/) so merchant can automatically send the expense to Concur on the customer's behalf (which can be reimbursed later)
 **Concur + Golgi** | Use [Golgi](http://www.golgi.io/) to get realtime updates of a Concur user's Itinerary (e.g. instant notification to a travel app when a Concur user makes a new flight/hotel booking)
 **Concur + Mashery** | Mashup Concur with any [Mashery API](http://dev.mashery.com/iodocs) listed in their API Explorer
 **Concur + Mastercard** | Use smartwatch to confirm if [Mastercard](http://developer.mastercard.com/) purchase line item should be sent to Concur as expense (or ignored if personal purchase)
 **Concur + Nexmo** | At the end of your business trip, automatically send your boss an email on how much money you saved the company by accepting SMS/calls through your [Nexmo](https://www.nexmo.com/) number.
 **Concur + Paypal** | Provide functionality to pick [PayPal](http://www.paypal.com/) purchases and send to Concur as expense
-**Concur + Spark** | Use Concur itinerary data to alert IoT devices hooked to [Spark Core Kit](https://www.spark.io/) in hotel room to set themselves according to user's preference (e.g. When person walks in, lights adjust and an automatic request for shaving kit is sent out)
 **Concur + Twitter** |
-**Concur + Yammer** | Allow Yammer 
+**Concur + Yammer** | Coordinate group travel by pulling Concur itinerary API and dynamically creating a group in [Yammer](https://developer.yammer.com/restapi/) tied to flight date and destination
 
 Find more app ideas [here](#example)
 
