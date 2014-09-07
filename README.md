@@ -152,16 +152,16 @@ The subsections below provide a more detailed information on how to:
            <?xml version="1.0"?>
            <Itinerary xmlns="http://www.concursolutions.com/api/travel/trip/2010/06">
            <TripName>TechCrunch Disrupt Concur</TripName>
-           <StartDateLocal>2014-05-30T03:47:14</StartDateLocal>
-           <EndDateLocal>2014-06-06T03:47:14</EndDateLocal>
+           <StartDateLocal>2014-10-30T03:47:14</StartDateLocal>
+           <EndDateLocal>2014-11-06T03:47:14</EndDateLocal>
            <Bookings>
             <Booking>
              <Segments>
                  <Hotel>
                      <Status>HK</Status>
                      <StartCityCode>SFO</StartCityCode>
-                     <StartDateLocal>2014-05-30T07:47:14</StartDateLocal>
-                     <EndDateLocal>2014-06-06T03:47:14</EndDateLocal>
+                     <StartDateLocal>2014-10-30T07:47:14</StartDateLocal>
+                     <EndDateLocal>2014-11-06T03:47:14</EndDateLocal>
                      <Name>Times Square Hilton New York</Name>
                      <RecordLocator>Hotel Locator</RecordLocator>
                      <RoomDescription>1 KING BED ACCESSIBLE ROOM - K1RRC</RoomDescription>
@@ -186,7 +186,7 @@ The subsections below provide a more detailed information on how to:
              </Segments>
              <RecordLocator>Disrupt123</RecordLocator>
              <BookingSource>Sample Itin for Disrupt</BookingSource>
-             <DateBookedLocal>2014-04-30T03:47:14</DateBookedLocal>
+             <DateBookedLocal>2014-10-30T03:47:14</DateBookedLocal>
            </Booking>
            <Booking>
              <Segments>
@@ -194,16 +194,16 @@ The subsections below provide a more detailed information on how to:
                      <Vendor>AA</Vendor>
                      <FlightNumber>425</FlightNumber>
                      <StartCityCode>SFO</StartCityCode>
-                     <StartDateLocal>2014-05-30T03:47:14</StartDateLocal>
+                     <StartDateLocal>2014-10-30T03:47:14</StartDateLocal>
                      <EndCityCode>NYC</EndCityCode>
-                     <EndDateLocal>2014-05-30T07:47:14</EndDateLocal>
+                     <EndDateLocal>2014-11-30T07:47:14</EndDateLocal>
                      <Cabin>O</Cabin>
                      <ClassOfService>O</ClassOfService>
                  </Air>
              </Segments>
              <RecordLocator>Air Locator</RecordLocator>
              <BookingSource>Sample Itin for Disrupt</BookingSource>
-             <DateBookedLocal>2014-04-30T03:47:14</DateBookedLocal>
+             <DateBookedLocal>2014-10-30T03:47:14</DateBookedLocal>
            </Booking>
          </Bookings>
          </Itinerary>
